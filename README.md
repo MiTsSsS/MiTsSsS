@@ -1,12 +1,12 @@
-![Header](https://github.com/MiTsSsS/MiTsSsS/blob/main/github-header-image.png)
+[Header](https://github.com/MiTsSsS/MiTsSsS/blob/main/github-header-image.png)
 
-- Currently working on a  ![Simple Particle System](https://github.com/MiTsSsS/ParticleSystem) :computer:
+- Currently working on a [Simple Particle System](https://github.com/MiTsSsS/ParticleSystem) :computer:
 - Currently learning  ![SFML](https://img.shields.io/badge/SFML-brightgreen?style=for-the-badge&logo=sfml) :joystick: 
 - Currently working as a Game Programmer at ![Kreationware](https://kreationware.com)
 
 # Released Games
   
-- ![Desert Revenant on Steam - Kreationware](https://store.steampowered.com/app/1969430/Desert_Revenant)
+- [Desert Revenant on Steam - Kreationware](https://store.steampowered.com/app/1969430/Desert_Revenant)
 <!--
 **MiTsSsS/MiTsSsS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
