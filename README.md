@@ -1,4 +1,4 @@
-[Header](https://github.com/MiTsSsS/MiTsSsS/blob/main/github-header-image.png)
+![Header](https://github.com/MiTsSsS/MiTsSsS/blob/main/github-header-image.png)
 
 - Currently working on a [Simple Particle System](https://github.com/MiTsSsS/ParticleSystem) :computer:
 - Currently learning  ![SFML](https://img.shields.io/badge/SFML-brightgreen?style=for-the-badge&logo=sfml) :joystick: 
