@@ -2,7 +2,7 @@
 
 - Currently working on a [Simple Particle System](https://github.com/MiTsSsS/ParticleSystem) :computer:
 
-- Next Project: Strategy game using ![Unity](https://img.shields.io/badge/Unity-Engine-lightgrey?style=for-the-badge&logo=appveyor)
+- Next Project: Strategy game using ![Unity](https://img.shields.io/badge/Unity-lightgrey?style=for-the-badge&logo=unity)
   
 - Currently learning  ![SFML](https://img.shields.io/badge/SFML-brightgreen?style=for-the-badge&logo=sfml) :joystick:
   
