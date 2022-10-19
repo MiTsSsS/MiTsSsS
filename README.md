@@ -1,6 +1,6 @@
 ![Header](https://github.com/MiTsSsS/MiTsSsS/blob/main/github-header-image.png)
 
-- Currently working on a [Strategy Game](https://github.com/MiTsSsS/ParticleSystem) :computer:
+- Currently working on a [Strategy Game](https://github.com/MiTsSsS/Strategy-Game) :computer:
 
 - Next Project: Strategy game using ![Unity](https://img.shields.io/badge/Unity-lightgrey?style=for-the-badge&logo=unity)
   
