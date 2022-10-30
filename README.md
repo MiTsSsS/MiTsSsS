@@ -2,9 +2,9 @@
 
 - Currently working on a [Strategy Game](https://github.com/MiTsSsS/Strategy-Game) :computer:
   
-- Currently learning  ![SFML](https://img.shields.io/badge/SFML-brightgreen?style=for-the-badge&logo=sfml) :joystick:
-  
 - Currently working as a Game Programmer at [Kreationware](https://kreationware.com)
+
+- Currently reading: Game Programming Patterns - Robert Nystrom 📖
 
 # Released Games
   
