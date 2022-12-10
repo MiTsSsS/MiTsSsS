@@ -3,7 +3,7 @@
 - Currently learning and working on a [Wave Function Collapse algorithm](https://github.com/MiTsSsS/WaveFunctionCollapse) :computer:
 - Currently working as a Game Programmer at [Kreationware](https://kreationware.com)
 
-- Currently reading: Game Programming Patterns - Robert Nystrom 📖
+- Currently reading Game Programming Patterns - Robert Nystrom 📖
 
 # Released Games
   
