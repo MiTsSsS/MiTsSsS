@@ -1,6 +1,6 @@
 ![Header](https://github.com/MiTsSsS/MiTsSsS/blob/main/github-header-image.png)
 
-- Currently learning and working on a Wave Function Collapse algorithm :computer:
+- Currently learning about the Wave Function Collapse algorithm :computer:
 - Currently working as a Game Programmer at [Kreationware](https://kreationware.com)
 
 - Currently reading Game Programming Patterns - Robert Nystrom 📖
