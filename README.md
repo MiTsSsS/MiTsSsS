@@ -2,8 +2,6 @@
 
 - Currently working as a Game Programmer at [Kreationware](https://kreationware.com)
 
-- Currently reading Game Programming Patterns - Robert Nystrom 📖
-
 # Released Games
   
 - [Desert Revenant on Steam - Kreationware](https://store.steampowered.com/app/1969430/Desert_Revenant)
