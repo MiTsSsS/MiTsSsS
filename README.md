@@ -2,7 +2,7 @@
 
 <a href="https://gamedev.stackexchange.com/users/145869/rayan-samaha"><img src="https://gamedev.stackexchange.com/users/flair/145869.png?theme=dark" width="208" height="58" alt="profile for Rayan Samaha at Game Development Stack Exchange, Q&amp;A for professional and independent game developers" title="profile for Rayan Samaha at Game Development Stack Exchange, Q&amp;A for professional and independent game developers"></a>
 
-- Currently working as a Game Programmer at [Kreationware](https://kreationware.com)
+- Currently a Game Programmer at [Kreationware](https://kreationware.com)
 
 # Released Games
   
