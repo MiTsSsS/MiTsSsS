@@ -2,10 +2,11 @@
 
 <a href="https://gamedev.stackexchange.com/users/145869/rayan-samaha"><img src="https://gamedev.stackexchange.com/users/flair/145869.png?theme=dark" width="208" height="58" alt="profile for Rayan Samaha at Game Development Stack Exchange, Q&amp;A for professional and independent game developers" title="profile for Rayan Samaha at Game Development Stack Exchange, Q&amp;A for professional and independent game developers"></a>
 
-- Currently a Game Programmer at [Kreationware](https://kreationware.com)
+- Currently a Game/Engine Programmer at [Kongor Studios](https://kongorstudios.com/) and [Kreationware](https://kreationware.com)
 
-# Released Games
+# Working on
   
+- [Heroes of Newerth](https://heroesofnewerth.com/)
 - [Desert Revenant on Steam - Kreationware](https://store.steampowered.com/app/1969430/Desert_Revenant)
 <!--
 **MiTsSsS/MiTsSsS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
