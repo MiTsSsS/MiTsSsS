@@ -7,7 +7,7 @@
 # Working on
   
 - [Heroes of Newerth](https://heroesofnewerth.com/)
-- [Desert Revenant on Steam - Kreationware](https://store.steampowered.com/app/1969430/Desert_Revenant)
+- [Desert Revenant](https://store.steampowered.com/app/1969430/Desert_Revenant)
 <!--
 **MiTsSsS/MiTsSsS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
