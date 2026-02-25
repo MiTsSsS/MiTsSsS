@@ -2,9 +2,7 @@
 
 <a href="https://gamedev.stackexchange.com/users/145869/rayan-samaha"><img src="https://gamedev.stackexchange.com/users/flair/145869.png?theme=dark" width="208" height="58" alt="profile for Rayan Samaha at Game Development Stack Exchange, Q&amp;A for professional and independent game developers" title="profile for Rayan Samaha at Game Development Stack Exchange, Q&amp;A for professional and independent game developers"></a>
 
-- Currently a Game/Engine Programmer at [Kongor Studios](https://kongorstudios.com/) and [Kreationware](https://kreationware.com)
-
-# Working on
+# Worked on
   
 - [Heroes of Newerth](https://heroesofnewerth.com/)
 - [Desert Revenant 2: The Reawakening](https://store.steampowered.com/app/1969430/Desert_Revenant)
