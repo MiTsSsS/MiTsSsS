@@ -4,7 +4,7 @@
 
 # Worked on
   
-- [Heroes of Newerth](https://heroesofnewerth.com/)
+- [Heroes of Newerth - Reborn](https://heroesofnewerth.com/)
 - [Desert Revenant 2: The Reawakening](https://store.steampowered.com/app/1969430/Desert_Revenant)
 - [Desert Revenant](https://store.steampowered.com/app/1969430/Desert_Revenant)
 <!--
